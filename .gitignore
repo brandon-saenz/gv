@@ -1,5 +1,6 @@
 *.tmp.driveupload
-*src-kiosco
+/src/*
+*src
 *config.yml
 /dev/*
 *.DS_Store
