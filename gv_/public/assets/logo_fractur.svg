@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g>
+    <rect class="fig_1" x="13.65" y="222.81" width="67" height="67" transform="translate(195.05 41.73) rotate(45)"/>
+    <rect class="fig_1" x="61.03" y="270.19" width="67" height="67" transform="translate(242.43 22.11) rotate(45)"/>
+    <rect class="fig_1" x="108.41" y="317.56" width="67" height="67" transform="translate(289.8 2.48) rotate(45)"/>
+    <rect class="fig_1" x="155.78" y="364.94" width="67" height="67" transform="translate(337.18 -17.14) rotate(45)"/>
+    <rect class="fig_1" x="203.16" y="412.32" width="67" height="67" transform="translate(384.55 -36.77) rotate(45)"/>
+    <rect class="fig_1" x="268.92" y="383.32" width="67" height="67" transform="translate(383.32 -91.76) rotate(45)"/>
+    <rect class="fig_1" x="256.54" y="445.2" width="26" height="67" transform="translate(417.44 -50.39) rotate(45)"/>
+    <rect class="fig_1" x="315.59" y="336.65" width="67" height="67" transform="translate(363.98 -138.43) rotate(45)"/>
+    <rect class="fig_1" x="362.96" y="289.28" width="67" height="67" transform="translate(344.36 -185.8) rotate(45)"/>
+    <rect class="fig_1" x="410.34" y="241.9" width="67" height="67" transform="translate(324.74 -233.18) rotate(45)"/>
+    <rect class="fig_1" x="443.93" y="227.81" width="67" height="28" transform="translate(310.82 -266.77) rotate(45)"/>
+  </g>
+  <g>
+    <rect class="fig_2" x="82.24" y="154.22" width="67" height="67" transform="translate(166.64 -26.86) rotate(45)"/>
+    <rect class="fig_2" x="129.62" y="201.6" width="67" height="67" transform="translate(214.02 -46.48) rotate(45)"/>
+    <rect class="fig_2" x="177" y="248.97" width="67" height="67" transform="translate(261.39 -66.11) rotate(45)"/>
+    <rect class="fig_2" x="220.84" y="292.81" width="67" height="67" transform="translate(305.23 -84.27) rotate(45)"/>
+    <rect class="fig_2" x="268.21" y="245.44" width="67" height="67" transform="translate(285.61 -131.64) rotate(45)"/>
+    <rect class="fig_2" x="315.59" y="198.06" width="67" height="67" transform="translate(265.98 -179.02) rotate(45)"/>
+    <rect class="fig_2" x="360.14" y="153.51" width="67" height="67" transform="translate(247.53 -223.57) rotate(45)"/>
+    <rect class="fig_2" x="344.34" y="119.22" width="30" height="67" transform="translate(213.24 -209.36) rotate(45)"/>
+    <rect class="fig_2" x="291.55" y="84.92" width="67" height="67" transform="translate(178.94 -195.16) rotate(45)"/>
+    <rect class="fig_2" x="244.17" y="132.3" width="67" height="67" transform="translate(198.57 -147.78) rotate(45)"/>
+    <rect class="fig_2" x="222.96" y="153.51" width="67" height="67" transform="translate(207.35 -126.57) rotate(45)"/>
+    <rect class="fig_2" x="129.62" y="106.85" width="67" height="67" transform="translate(147.02 -74.24) rotate(45)"/>
+    <rect class="fig_2" x="177" y="59.47" width="67" height="67" transform="translate(127.39 -121.61) rotate(45)"/>
+    <rect class="fig_2" x="222.96" y="13.51" width="67" height="67" transform="translate(108.35 -167.57) rotate(45)"/>
+  </g>
+</svg>

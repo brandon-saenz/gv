@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 274">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SpecifyPERSONALExpanded-MediumI, 'Specify PERSONAL Expanded';
+        font-size: 14.93px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: SpecifyPERSONALExpanded-Bold, 'Specify PERSONAL Expanded';
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 51.73px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.23em;
+      }
+
+      .cls-4 {
+        font-family: SpecifyPERSONALExpanded-Medium, 'Specify PERSONAL Expanded';
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.21em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 217.68)"><tspan x="0" y="0">G</tspan><tspan class="cls-5" x="47.49" y="0">R</tspan><tspan x="92.39" y="0">UPO</tspan></text>
+  <text class="cls-3" transform="translate(242.44 217.68)"><tspan class="cls-8" x="0" y="0">V</tspan><tspan x="38.44" y="0">AL</tspan><tspan class="cls-9" x="126.32" y="0">C</tspan><tspan x="172.05" y="0">AS</tspan></text>
+  <g>
+    <polyline class="cls-2" points="190.38 73.27 175.83 87.82 254.45 166.45 333.08 87.82 318.09 73.27 254.45 136.91 190.16 73.49"/>
+    <path class="cls-2" d="M254.67,9.42l14.56,14.67-42.81,43.04,28.03,27.65,27.71-27.72-6.21-6.39-20.85,20.85-14.77-14.76,35.71-35.8,35.75,36.02c.21,.21-57.34,57.34-57.34,57.34l-57.49-57.63L254.45,9.2"/>
+  </g>
+  <text class="cls-1" transform="translate(85.12 247.91)"><tspan x="0" y="0">IDEAS CONST</tspan><tspan class="cls-7" x="133.57" y="0">R</tspan><tspan x="146.53" y="0">UYENDO PLUS</tspan><tspan class="cls-6" x="286.47" y="0">V</tspan><tspan x="297.31" y="0">ALÍA</tspan></text>
+</svg>
