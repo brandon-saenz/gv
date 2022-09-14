@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('registro_empleados');
-});
+// Route::get('/', function () {
+//     return view('registro_empleados');
+// });
+
+Route::get('/',[\App\Http\Controllers\EmpleadosController::class, 'index']);
+Route::get('/empleados/consulta',[\App\Http\Controllers\EmpleadosController::class, 'consulta']);
+Route::post('/empleados/alta',[\App\Http\Controllers\EmpleadosController::class, 'alta']);

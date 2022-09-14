@@ -21,40 +21,6 @@ $( document ).ready(function() {
     //     var splash_screen=document.getElementById('splash_screen').style.display='none';
     // }
 
-
-    function events({ swiper, extendParams, on }) {
-        extendParams({
-          debugger: false,
-        });
-
-        on('slideChange', () => {
-            if (!swiper.params.debugger) return;
-            if(swiper.activeIndex>=4){
-                change_cobroplan();
-            }else{
-                change_rancho();
-            }    
-            console.log(
-                'index-swipter = ',
-                swiper.activeIndex
-            );
-        });
-    }
-
-    var body_swiper = new Swiper(".body-swiper", {
-        modules: [events],
-        keyboard: {
-            enabled: true,
-        },
-        hashNavigation: {
-            watchState: true,
-        },
-        navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-        },
-        debugger: true
-    });
 });
 
 
@@ -138,27 +104,7 @@ function switched(){
 function init(){
     console.log('DOC SCRIPT OK');
 
-    var sidenav = document.querySelectorAll('.sidenav');
-    var instance_sidenav = M.Sidenav.init(sidenav);
-
-    var tabs = document.querySelectorAll('.tabs');
-    var instance_tabs = M.Tabs.init(tabs);
-
-    
-    var modal = document.querySelectorAll('.modal');
-    var instance_modal = M.Modal.init(modal);
-    
-    var card_options = document.querySelectorAll('.dropdown-trigger');
-    var dropdownOptions = {
-        'inDuration': 100,
-        'constrainWidth': false
-    }
-    var instances_card_options = M.Dropdown.init(card_options,dropdownOptions);
-
-    var elem_altas = document.getElementById('elem_altas');
-    if(elem_altas){
-        //createCards(16, elem_altas);
-    }
+    M.AutoInit();
 }
 
 function copy(element) {
@@ -173,7 +119,7 @@ function copy(element) {
 }
 
 
-function n_modal_user_data(){
+function removeModalDetails(){
     var modal_right=document.querySelector('.modal-right');
     var modal_overlay=document.querySelector('#modal_overlay');
 

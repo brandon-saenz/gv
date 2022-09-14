@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "build": "vite build",
+        "scss": "node-sass -watch scss -o css"
     },
     "devDependencies": {
         "axios": "^0.27",
@@ -12,6 +13,8 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
-        "@chenfengyuan/datepicker": "^1.0.10"
+        "@chenfengyuan/datepicker": "^1.0.10",
+        "gulp": "^4.0.2",
+        "node-sass": "^7.0.3"
     }
 }
